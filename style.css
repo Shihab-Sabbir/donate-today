@@ -3,6 +3,7 @@ body {
     width: fit-content;
     height: fit-content;
     overflow-x: hidden;  
+    margin: 0;
 }
 .flex
 {
